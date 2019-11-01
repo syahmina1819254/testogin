@@ -1,0 +1,60 @@
+img.river{
+width:50%;
+height:50%;
+clip-path:polygon(0 0, 100% 50%, 0 100%);
+}
+img.uiaLogo{
+  position: fixed;
+  width: 200px;
+  height: 80px;
+  top: 20px;
+  right: 50px;
+}
+
+h1{
+
+  font-size: 30px ;
+  font-family: arial;
+}
+
+
+h2{
+  text-align: center;
+  border-bottom: 3.5px solid  #00918E;
+  padding-bottom: 5px;
+  width: 70px;
+}
+
+
+form{
+  border: 1px solid transparent;
+  height: 360px;
+  width: 300px;
+  top: 200px;
+  position: fixed;
+  right: 350px;
+}
+
+.in{
+  width: 300px;
+}
+button{
+  width: 300px;
+  height: 25px;
+}
+
+ul{
+  text-decoration: none;
+  position: fixed;
+  bottom: 80px;
+  right: 50px;
+}
+.Link{
+  text-decoration: none;
+  color:#00918E;
+  padding: 8px;
+}
+
+.imageLink{
+  font-size: 25px;
+}
